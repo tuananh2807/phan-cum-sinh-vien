@@ -2,7 +2,7 @@
 # Lê Tuấn Anh-K225480106001<br>
 # lớp: k58KTP<br>
 # môn: Khoa Học Dữ LIệu<br>
-
+link youtobe: https://youtu.be/uJbSlE_LLok
 # 1. Giới thiệu dự án<br>
 Dự án ứng dụng thuật toán K-Means Clustering để phân loại sinh viên thành các nhóm có chung đặc điểm học tập. Bằng cách phân tích điểm số các môn học hệ 4, hệ thống giúp giảng viên và nhà quản lý giáo dục nhận diện được năng lực, thế mạnh và điểm yếu của từng nhóm sinh viên, từ đó đưa ra phương pháp giảng dạy và định hướng phát triển phù hợp.<br>
 
